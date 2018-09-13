@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/*
+web: java -war ./target/jersey-rest-tutoria.war
