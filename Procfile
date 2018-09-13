@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* jersey-rest-tutoria
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* real2
